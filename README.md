@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# USE
+
+type detail and give time to  second to perform task if given time done then task will fire
+
 ## Available Scripts
 
 In the project directory, you can run:
