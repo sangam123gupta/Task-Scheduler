@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # USE
 
-type detail and give time to  second to perform task if given time done then task will fire
+## Type detail and give time in second to perform task if given time done then task will fire
 
 ## Available Scripts
 
